@@ -2,6 +2,8 @@
 
 基于 Nexent + SiliconFlow + ModelScope MCP + Exa.ai 四引擎打造的中英双语全栈AI技术研究智能体
 
+GitHub: https://github.com/HGTRs777/Global-AI-Tech-Research-Assistant
+
 
 一句话简介
 
@@ -274,8 +276,6 @@ System Prompt 设计
 
 相关资源
 
-  本项目 GitHub: https://github.com/HGTRs777/Global-AI-Tech-Research-Assistant
-
   Nexent 官方文档: https://modelengine-group.github.io/nexent/zh/getting-started/overview.html
   Nexent 在线体验: http://localhost:3000/zh
   Nexent GitHub: https://github.com/ModelEngine-Group/nexent
@@ -303,3 +303,20 @@ System Prompt 设计
 这个智能体将 Exa.ai 的国际前沿搜索能力、ModelScope MCP 的中文技术生态覆盖能力、SiliconFlow 的多模型推理能力整合为一个研究闭环，实现中英文技术信息的无缝衔接。四个工具各司其职，旨在抹平 AI 技术领域的语言和信息鸿沟。
 
 欢迎 Star 我们的项目！
+
+
+实测效果
+
+以下为智能体在 Nexent 平台上的实际运行截图，展示智能体如何调用知识库搜索工具并输出结构化研究报告。
+
+【图片 1 — 智能体概览页】
+在此插入智能体概览页截图（显示名称、描述、绑定工具、知识库等信息）
+
+【图片 2 — 知识库搜索示例】
+在此插入问答界面截图，展示智能体调用 knowledge_base_search 工具检索本地知识库的过程（可截取 Thinking 面板中的 tool_call 步骤）
+
+【图片 3 — 结构化报告输出】
+在此插入最终回答截图，展示智能体生成的完整研究报告（包含摘要、表格、代码块、参考文献引用标记 [[a1]][[a2]] 等）
+
+【图片 4 — 工具调用链】
+在此插入调试面板截图，展示完整的 Thought → Action → Observation 工具调用链路
