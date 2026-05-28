@@ -274,6 +274,8 @@ System Prompt 设计
 
 相关资源
 
+  本项目 GitHub: https://github.com/HGTRs777/Global-AI-Tech-Research-Assistant
+
   Nexent 官方文档: https://modelengine-group.github.io/nexent/zh/getting-started/overview.html
   Nexent 在线体验: http://localhost:3000/zh
   Nexent GitHub: https://github.com/ModelEngine-Group/nexent
