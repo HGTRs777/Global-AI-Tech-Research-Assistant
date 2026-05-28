@@ -1,0 +1,22 @@
+# Temp & test files
+*_response*.txt
+quick_test.json
+test_chat.json
+test_kb_*.txt
+test_kb_*.json
+tools.json
+tools_list.json
+
+# Sensitive — contains API keys
+direct_index.py
+direct_index_docker.py
+
+# Agent runtime state (contains tokens)
+agent_info.json
+
+# Cloned repo
+nexent/
+
+# Python
+__pycache__/
+*.pyc
